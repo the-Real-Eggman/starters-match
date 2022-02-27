@@ -1,11 +1,12 @@
-<html><head><script src="/web/client_hook" data-config="eyJwcmVmaXgiOiIvd2ViLyIsInVybCI6Imh0dHA6Ly9zdHJ1dC5pby9kaXN0L3ByZXZpZXdfZXhwb3J0L2ltcHJlc3MuaHRtbCJ9"></script>
-<meta charset="utf-8">
-<meta name="viewport" content="width=1024">
-<meta name="apple-mobile-web-app-capable" content="yes">
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1024" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <title>Deck Title</title>
 
-<meta name="description" content="TODO">
-<meta name="author" content="TODO">
+<meta name="description" content="TODO" />
+<meta name="author" content="TODO" />
 
 <style>
 .componentContainer {
@@ -28,15 +29,15 @@
 }
 </style>
 
-<link rel="stylesheet" href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/css/themes/default-reset.css">
-<link href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/css/main.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/reveal/css/theme/default.css" id="theme">
-<link href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/css/web-fonts.css" rel="stylesheet" type="text/css">
-<link href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/styles/strut.themes/backgroundClasses.css" rel="stylesheet" type="text/css">
-<link href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/styles/strut.themes/surfaceClasses.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/themes/default-reset.css"></link>
+<link href="css/main.css" rel="stylesheet" type='text/css' />
+<link rel="stylesheet" href="reveal/css/theme/default.css" id="theme">
+<link href='css/web-fonts.css' rel='stylesheet' type='text/css' />
+<link href='../styles/strut.themes/backgroundClasses.css' rel='stylesheet' type='text/css' />
+<link href='../styles/strut.themes/surfaceClasses.css' rel='stylesheet' type='text/css' />
 
-<link rel="shortcut icon" href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/favicon.png" type="image/png">
-<link rel="apple-touch-icon" href="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/apple-touch-icon.png" type="image/png">
+<link rel="shortcut icon" href="favicon.png" type='image/png' />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" type='image/png' />
 
 <style>
 .reveal.themedArea {
@@ -50,11 +51,11 @@
 }
 </style>
 
-<script type="text/javascript" src="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/scripts/dataset-shim.js"></script>
-<script type="text/javascript" src="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/scripts/impress.js"></script>
+<script type="text/javascript" src="scripts/dataset-shim.js"></script>
+<script type="text/javascript" src="scripts/impress.js"></script>
 
-<script src="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/scripts/onready.js"></script>
-<script src="/web/_aHR0cDovL3N0cnV0Lmlv_/dist/preview_export/scripts/loadPresentation.js"></script>
+<script src="scripts/onready.js"></script>
+<script src="scripts/loadPresentation.js"></script>
 <script>
 ready(function() {
     if (document.getElementById('launched-placeholder'))
@@ -83,5 +84,5 @@ ready(function() {
 </head>
 <body class="impress-not-supported">
     <div id="launched-placeholder"></div>
-
-</body></html>
+</body>
+</html>
